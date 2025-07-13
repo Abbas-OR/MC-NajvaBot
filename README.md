@@ -17,7 +17,8 @@
 > enjoy that :))
 
 **What we need to have** 
-pip / pip3
+
+>pip / pip3
 ```
 pip install pyrogram
 pip install sqlalchemy
