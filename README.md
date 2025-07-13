@@ -15,3 +15,11 @@
 > like this @usernameBot Hello World @personaluser / 11111
 
 > enjoy that :))
+
+**What we need to have** 
+pip / pip3
+```
+pip install pyrogram
+pip install sqlalchemy
+pip installl logging
+```
